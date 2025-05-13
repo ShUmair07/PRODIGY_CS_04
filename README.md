@@ -25,4 +25,4 @@ Read the [ETHICAL_GUIDELINES.md](ETHICAL_GUIDELINES.md) before using this tool.
    ```bash  
    python keylogger.py 
 
-## Press Ctrl+C to stop.
+Press Ctrl+C to stop.
